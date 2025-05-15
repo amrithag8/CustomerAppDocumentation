@@ -22,7 +22,8 @@
 ## Solution Explorer Sample
 
    
-![SolutionExplorer](https://github.com/user-attachments/assets/45689e7b-c6e2-42cf-b9a5-a142038ddb42)
+![SolutionExplorer2](https://github.com/user-attachments/assets/417418e0-50c6-431d-bac4-9dd9f9bd2eda)
+
 
 ## ModelClass Sample
 
