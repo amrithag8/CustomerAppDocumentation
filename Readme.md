@@ -67,5 +67,6 @@ It contains the query string and the error messages. Which need to be given insi
 2. Delete Customer by email
 3. Delete location by email and location type
 
+Upload Customer Profile Photo after completing these ones
    
 
