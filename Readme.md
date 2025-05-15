@@ -48,3 +48,24 @@ All the variables are in camel case.
 It contains the query string and the error messages. Which need to be given inside the App settings inside Azure portal once it is deployed.
 
 ![localsettings](https://github.com/user-attachments/assets/c227d1ea-7fa6-4b8b-8b5c-7e2b76209979)
+
+
+## Assigning the Work
+
+## Aditya- 
+1. Get Customer by Email
+2. Get Customer locations by Email
+3. Get Customer location by Email and Location Type
+
+## Neetu
+1. Add Location by email
+2. Update Customers by email
+3. Update location by email and location type
+
+## Amrutha
+1. Add Customer
+2. Delete Customer by email
+3. Delete location by email and location type
+
+   
+
