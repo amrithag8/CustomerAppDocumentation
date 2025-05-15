@@ -58,15 +58,15 @@ It contains the query string and the error messages. Which need to be given insi
 3. Get Customer location by Email and Location Type
 
 ## Neetu
-1. Add Location by email
-2. Update Customers by email
-3. Update location by email and location type
+4. Add Location by email
+5. Update Customers by email
+6. Update location by email and location type
 
 ## Amrutha
-1. Add Customer
-2. Delete Customer by email
-3. Delete location by email and location type
+7. Add Customer
+8. Delete Customer by email
+9. Delete location by email and location type
 
-Upload Customer Profile Photo after completing these ones
+10.Upload Customer Profile Photo after completing these ones
    
 
